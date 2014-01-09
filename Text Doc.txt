@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 First New Repo Doc-Dan’s Change
+=======
+First New Repo Doc - Dan is an iiiiiidiot
+>>>>>>> refs/remotes/origin/master
